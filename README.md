@@ -23,6 +23,10 @@ Components de UI
   
 ### TODO
 - Melhorar estilização do app
+- Atualizar calculo para levar em conta a idade, gênero, nível de atividade cotidiana
+- Mudar a linguagem, deixar mais amigável, orientação de auxílio médico com base no resultado do calculo
+- Trazer dados de porcentagem de pessoas que estão no mesmo nível que o usuário
+- Dicas de como se alimentar, exercícios, esportes e recomendação de apps ou sites
 
 ## Author
 Diego Covolan (follow me on [Linkedin](https://www.linkedin.com/in/diego-covolan-android-developer-ux-ui-designer/))
